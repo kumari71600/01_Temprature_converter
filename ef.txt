@@ -1,0 +1,4 @@
+ 2 degrees C is 35.6 degrees F
+ 2 degrees F is -16.7 degrees C
+ -2 degrees C is 28.4 degrees F
+ -2 degrees F is -18.9 degrees C

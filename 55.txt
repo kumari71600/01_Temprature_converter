@@ -1,0 +1,2 @@
+ -33 degrees F is -36.1 degrees C
+ -33 degrees C is -27.4 degrees F

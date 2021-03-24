@@ -1,0 +1,10 @@
+ 23 degrees C is 73.4 degrees F
+ 23 degrees F is -5 degrees C
+ 23 degrees C is 73.4 degrees F
+ 23 degrees F is -5 degrees C
+ -23 degrees F is -30.6 degrees C
+ -23 degrees C is -9.4 degrees F
+ -23 degrees F is -30.6 degrees C
+ -23 degrees C is -9.4 degrees F
+ -23 degrees C is -9.4 degrees F
+ -23 degrees F is -30.6 degrees C

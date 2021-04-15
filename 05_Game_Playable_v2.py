@@ -156,7 +156,7 @@ class Game:
                 prize_list = "copper (${})".format(1 * stakes_multiplier)
                 round_winnings += stakes_multiplier
             else:
-                prize = PhotoImage(file="lead.gif")
+                prize = PhotoImage(file="images\lead.gif")
                 prize_list = "lead ($0)"
 
             prizes.append(prize)
@@ -206,7 +206,7 @@ class Game:
             self.game_box.focus()
             self.play_button.config(text="Game Over")
 
-            balance_statement = "Current Balance: $[]\n" \
+            balance_statement = "Current Balance: ${}\n" \
                                 "Your balance is too low. You can only quit " \
                                 "or view your stats. Sorry about that.".format(current_balance)
             self.balance_label.config(fg="#660000", font="Arial 10 bold",
